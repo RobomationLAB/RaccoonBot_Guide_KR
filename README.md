@@ -14,7 +14,7 @@
 🧩 [**RobomationLAB 바로가기**](https://robomationlab.com/)  
 
 **라쿤봇** 사용자들을 위한 [User Guide Wiki](https://github.com/RobomationLAB/RaccoonBot_Guide_KR/wiki) 입니다.<br>
-**RobomationLAB** 사용자들을 위한 [Coding Guide Wiki](https://github.com/RobomationLAB/Coding_Guide_KR/wiki) 입니다.<br>
+**RobomationLAB** 사용자들을 위한 [사용 가이드 Wiki](https://github.com/RobomationLAB/User_Guide/wiki) 입니다.<br>
 
 우측 사이드바의 **목차**에서 원하는 **도움말 항목**을 선택하여 라쿤봇의 기능, 설정, 동작 원리 등을 단계별로 확인할 수 있습니다.
 <br><br>
