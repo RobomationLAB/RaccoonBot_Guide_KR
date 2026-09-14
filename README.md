@@ -13,8 +13,8 @@
 즉시 코딩을 시작하고 싶다면 아래 링크를 클릭하세요.  
 🧩 [**RobomationLAB 바로가기**](https://robomationlab.com/)  
 
-**라쿤봇** 사용자들을 위한 [User Guide Wiki](https://github.com/RobomationLAB/RaccoonBot_Guide_KR/wiki) 입니다.<br>
-**RobomationLAB** 사용자들을 위한 [User Guide](https://docs.robomationlab.com) 입니다.<br>
+**라쿤봇** 사용자들을 위한 [사용자 가이드 Wiki](https://github.com/RobomationLAB/RaccoonBot_Guide_KR/wiki) 입니다.<br>
+**RobomationLAB** 사용자들을 위한 [사용 가이드](https://docs.robomationlab.com) 입니다.<br>
 
 <br><br>
 
