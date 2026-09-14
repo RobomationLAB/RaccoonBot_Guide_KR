@@ -14,7 +14,7 @@
 🧩 [**RobomationLAB 바로가기**](https://robomationlab.com/)  
 
 **라쿤봇** 사용자들을 위한 [User Guide Wiki](https://github.com/RobomationLAB/RaccoonBot_Guide_KR/wiki) 입니다.<br>
-**RobomationLAB** 사용자들을 위한 [User Guide Wiki](https://github.com/RobomationLAB/User_Guide/wiki) 입니다.<br>
+**RobomationLAB** 사용자들을 위한 [User Guide](https://docs.robomationlab.com) 입니다.<br>
 
 <br><br>
 
