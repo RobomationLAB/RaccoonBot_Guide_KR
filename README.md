@@ -11,7 +11,7 @@
 라쿤봇은 **Teaching & Playback(언플러그드 코딩)** 기능을 통해 별도의 네트워크 연결 없이도 간편하게 동작을 학습시키고 재생할 수 있으며, **RobomationLAB**을 이용하면 블록 코딩을 통해 더욱 직관적으로 코딩을 수행할 수 있습니다.  
 
 즉시 코딩을 시작하고 싶다면 아래 링크를 클릭하세요.  
-🧩 [**RobomationLAB 바로가기**](https://robomationlab.com/)  
+🧩 [**RobomationLAB 바로가기**](https://blockcomposer.robomationlab.com/)  
 
 **라쿤봇** 사용자들을 위한 [사용자 가이드 Wiki](https://github.com/RobomationLAB/RaccoonBot_Guide_KR/wiki) 입니다.<br>
 **RobomationLAB** 사용자들을 위한 [사용 가이드](https://docs.robomationlab.com) 입니다.<br>
